@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SwasthyaSathi - AI Public Health Companion
 
 🏥 **SwasthyaSathi** is India's first AI-powered public health companion for smartphones and button phones, designed to provide accessible healthcare information, disease prevention, and emergency alerts to citizens across all literacy levels.
@@ -332,3 +333,6 @@ MIT License - See LICENSE file for details
 **Developed with ❤️ for India's health and climate sustainability**
 
 *SwasthyaSathi - Your Health, Our Priority* 🏥💚
+=======
+# Overall_Health_Advisor
+>>>>>>> a29cbf51958f533cf717d9f95eb7ce1a51b4bbe1
